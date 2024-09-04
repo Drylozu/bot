@@ -7,7 +7,7 @@
 ## 📦 Packages:
 
 - ⚡️ [Nodejs](https://nodejs.org/en/) - JavaScript runtime.
-- 🤖 [Discord.js](https://discord.js.org/) - Discord API.
+- 🤖 [Seyfert](https://www.seyfert.dev/) - Discord API.
 - 📘 [Typescript](https://www.typescriptlang.org/) - TypeScript language.
 
 ## 🚀 Getting Started:
